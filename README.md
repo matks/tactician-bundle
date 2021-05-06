@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/thephpleague/tactician-bundle.svg)](https://travis-ci.org/thephpleague/tactician-bundle)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/thephpleague/tactician-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/thephpleague/tactician-bundle/?branch=master)
 
-Symfony2 Bundle for the Tactician library
+Symfony Bundle for the Tactician library
 [https://github.com/thephpleague/tactician/](https://github.com/thephpleague/tactician/)
 
 ## Installation
